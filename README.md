@@ -16,9 +16,9 @@ I divide my time between academic theory and practical offensive security. I am 
 
 This space serves as my digital notebook and repository for academic and personal projects.
 
-* [CTF-Writeups](https://github.com/100210010010732/Dotfiles)
+* [CTF-Writeups](https://github.com/100210010010732/CTF-Writeups?tab=readme-ov-file)
   *Methodology documentation, vulnerability analysis, and exploit adaptation from echoCTF and Hack The Box.*
-* [System Configuration](link_a_tus_dotfiles)
+* [System Configuration](https://github.com/100210010010732/Dotfiles)
   *My personal dotfiles. A constantly evolving setup optimized for a pentesting workflow.*
 
 ## Telemetry
