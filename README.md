@@ -1,28 +1,31 @@
-# Fredy Noel Antunez Jimenez
+# Fred Antunez
 
-Computing Engineering student at Facultad de Ingeniería, UNAM. I balance my academic coursework with hands-on practice in cybersecurity. My focus is on understanding system architecture, practicing in lab environments, and documenting my learning process.
+Computing Engineering student at Facultad de Ingeniería, UNAM. I combine academic coursework with hands-on cybersecurity practice. My focus is on system architecture, lab-based learning, and documenting technical processes and findings.
 
 ---
 
-## Areas of Study 
-* **Security:** Web application vulnerabilities, Linux privilege escalation, network enumeration.
-* **Systems:** Arch Linux, Bash scripting.
+## Technical Focus
+
+* **Security:** Web application security, vulnerability analysis, Linux privilege escalation, and network enumeration.
+* **Systems:** Linux (Arch-based workflow), Bash scripting, system architecture fundamentals.
+
+---
 
 ## Projects & Notes
 
-This space serves as a directory for my academic and personal projects.
-
 * [CTF-Writeups](https://github.com/cnfredl/CTF-Writeups)
-  *Methodology, notes, and solutions for challenges on echoCTF and Hack The Box.*
+  *CTF writeups, methodologies, notes, and solutions for challenges on echoCTF and Hack The Box.*
+
 * [System Configuration](https://github.com/cnfredl/Dotfiles)
-  *My personal Arch Linux and Neovim configuration files.*
+  *Personal Linux and Neovim configuration files (Arch-based workflow).*
+
+---
 
 ## CTF Activity
+
 Active player on echoCTF.RED
 
-* Global Rank: #147
-* Level: 15
-* Points: 111,350
-* Flags captured: 107
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=cnfredl&show_icons=false&theme=radical&hide_border=true" alt="cnfredl GitHub Stats" />
+- Global Rank: #147
+- Level: 15
+- Points: 111,350
+- Flags captured: 107
