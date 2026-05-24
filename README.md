@@ -18,10 +18,11 @@ This space serves as a directory for my academic and personal projects.
   *My personal Arch Linux and Neovim configuration files.*
 
 ## CTF Activity
+Active player on echoCTF.RED
 
-Active player on echoCTF.RED.
-* **Rank:** 147th Globally (Top 150)
-* **Status:** Level 15 / Senior CTFer
-* **Stats:** 111,350 points | 28 Headshots | 107 Flags
+* Global Rank: #147
+* Level: 15
+* Points: 111,350
+* Flags captured: 107
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=cnfeed&show_icons=false&theme=radical&hide_border=true" alt="cnfeed GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=cnfredl&show_icons=false&theme=radical&hide_border=true" alt="cnfredl GitHub Stats" />
