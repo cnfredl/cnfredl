@@ -12,9 +12,9 @@ Computing Engineering student at Facultad de Ingeniería, UNAM. I balance my aca
 
 This space serves as a directory for my academic and personal projects.
 
-* [CTF-Writeups](https://github.com/cnfeed/CTF-Writeups)
+* [CTF-Writeups](https://github.com/cnfredl/CTF-Writeups)
   *Methodology, notes, and solutions for challenges on echoCTF and Hack The Box.*
-* [System Configuration](https://github.com/cnfeed/Dotfiles)
+* [System Configuration](https://github.com/cnfredl/Dotfiles)
   *My personal Arch Linux and Neovim configuration files.*
 
 ## CTF Activity
