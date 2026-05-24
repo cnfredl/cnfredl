@@ -1,4 +1,4 @@
-# Fred Antunez
+# Fredy Noel Antunez Jimenez | cnfred
 
 Computing Engineering student at Facultad de Ingeniería, UNAM. I combine academic coursework with hands-on cybersecurity practice. My focus is on system architecture, lab-based learning, and documenting technical processes and findings.
 
