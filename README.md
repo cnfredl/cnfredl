@@ -1,33 +1,27 @@
-# /home/cnfredl/about.md
+# Fredy Noel Antunez Jimenez
 
-> "The quietest people have the loudest minds."
-
-Computer Engineering student at UNAM's Faculty of Engineering. 
-I divide my time between academic theory and practical offensive security. I am constantly learning, breaking things in my lab, and trying to understand why they broke.
+Computing Engineering student at Facultad de Ingeniería, UNAM. I balance my academic coursework with hands-on practice in cybersecurity. My focus is on understanding system architecture, practicing in lab environments, and documenting my learning process.
 
 ---
 
-## Current Focus 
-* **Security Research:** * Web Application Logic Flaws
-  * Linux Privilege Escalation Paths
-* **Systems:** Arch Linux (daily driver), Bash Scripting.
+## Areas of Study 
+* **Security:** Web application vulnerabilities, Linux privilege escalation, network enumeration.
+* **Systems:** Arch Linux, Bash scripting.
 
-## Public Archive
+## Projects & Notes
 
-This space serves as my digital notebook and repository for academic and personal projects.
+This space serves as a directory for my academic and personal projects.
 
-* [CTF-Writeups](https://github.com/100210010010732/CTF-Writeups?tab=readme-ov-file)
-  *Methodology documentation, vulnerability analysis, and exploit adaptation from echoCTF and Hack The Box.*
-* [System Configuration](https://github.com/100210010010732/Dotfiles)
-  *My personal dotfiles. A constantly evolving setup optimized for a pentesting workflow.*
+* [CTF-Writeups](https://github.com/cnfeed/CTF-Writeups)
+  *Methodology, notes, and solutions for challenges on echoCTF and Hack The Box.*
+* [System Configuration](https://github.com/cnfeed/Dotfiles)
+  *My personal Arch Linux and Neovim configuration files.*
 
-## Telemetry
+## CTF Activity
 
-Currently ranked in the Top 250 globally on echoCTF (Level 11).
+Active player on echoCTF.RED.
+* **Rank:** 147th Globally (Top 150)
+* **Status:** Level 15 / Senior CTFer
+* **Stats:** 111,350 points | 28 Headshots | 107 Flags
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=100210010010732&show_icons=false&theme=radical&hide_border=true" alt="cnfredl GitHub Stats" />
-
----
-
-*Status: Compiling knowledge...*
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=cnfeed&show_icons=false&theme=radical&hide_border=true" alt="cnfeed GitHub Stats" />
